@@ -13,7 +13,8 @@ if(!$query) {
 		<title>City</title>
 	</head>
 	<body>
-		Add <a href="new_citi.php">new city</a>.
+		<h1>City</h1>
+		<p>Add a <a href="new_city.php">new city</a>.</p>
 		<table>
 			<tr>
 				<th>ID</th>

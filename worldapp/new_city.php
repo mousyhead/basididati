@@ -25,6 +25,8 @@ if($_POST['submit']) {
 	<title>New city</title>
 </head>
 <body>
+	<h1>New city</h1>
+	<p>Return to <a href="city.php">city</a></p>
 	<form action="" method="POST">
 		<p>ID: <input type="text" name="id"></p>
 		<p>Name: <input type="text" name="name"></p>
